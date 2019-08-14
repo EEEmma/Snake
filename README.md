@@ -8,6 +8,6 @@ A classic mobile game
 
 玩法不需要介绍啦，就是那个贪吃蛇~
 
-效果预览
+### 效果预览
 
 ![image](https://github.com/EEEmma/Snake/blob/master/src/resource/display.png)
