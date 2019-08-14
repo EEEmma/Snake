@@ -8,3 +8,4 @@ A classic mobile game
 
 效果预览
 
+![image]（https://github.com/EEEmma/Snake/blob/master/src/resource/display.png）
